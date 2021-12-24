@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandana.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on projects which can give me exposure to different technologies.
   THANK YOU!
