@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandana.
 - 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning Azure Data Scientist certification and also pursuing Masters in Statistics.
 - 💞️ I’m looking to collaborate on projects which can give me exposure to different technologies.
                           THANK YOU!
 * Connect with me on my LinkedIn profile : linkedin.com/in/chandana8
